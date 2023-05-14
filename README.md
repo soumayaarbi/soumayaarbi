@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumaya Arbi</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Espace Citoyen pour les communes**
+- 🔭 I’m currently working on **Citizen space for municipalities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
